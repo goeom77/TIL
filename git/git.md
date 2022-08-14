@@ -53,8 +53,8 @@ rm q.txt : q.txt 파일을 제거
 ### git 명령어
 
 ```python
-git config --global user.name goeom77
-git config --global user.email 7eom14@gmail.com
+git config --global user.name {name}
+git config --global user.email {email}
 # 내부 파일이 untracted 되어서 git에 의해 관리되어진다.
 git add test.txt
 # working directory -> staging Area : 어느정도 완성되어서 저장하고 싶을때
