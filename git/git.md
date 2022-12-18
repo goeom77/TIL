@@ -51,6 +51,7 @@ rm q.txt : q.txt 파일을 제거
 - Repository
 
 ### git 명령어
+![image](https://user-images.githubusercontent.com/109336705/208325211-03ac88c9-bba9-4bdb-a83b-ce6930b5ab35.png)
 
 ```python
 git config --global user.name {name}
