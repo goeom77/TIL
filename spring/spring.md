@@ -1,0 +1,1 @@
+gradle -> File / settings/ gradle 찾기 -> ![image-20230114155135571](C:\Users\SSAFY\AppData\Roaming\Typora\typora-user-images\image-20230114155135571.png)
